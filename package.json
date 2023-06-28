@@ -1,0 +1,23 @@
+{
+  "name": "baby-crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/AnimBadger/baby-crawl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnimBadger/baby-crawl/issues"
+  },
+  "homepage": "https://github.com/AnimBadger/baby-crawl#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
